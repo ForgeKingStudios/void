@@ -1,21 +1,34 @@
-MIT License
+VOID Fantasy Computer Console
 
-Copyright (c) 2024 VOID-Fantasy-Computer
+Inspired by PICO-8, LIKO-12 and TIC-80 as retro fantasy computer console. Made of
+the Universal System. It will be made available on the itch.io platform as an
+application, executable and testable directly on the platform. The expectation of
+platforms are: Android, Windows and Linux (Executable and on
+Raspberry PI of the Batocera type).
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+------------------------------------------------------------------------------------
+RESTRICTED USE LICENCE
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+All rights reserved (c) 2024-2025 ForgeKingStudios, created by Gustavo Gimenes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Reproduction, distribution, modification, merging, publication, sale, sublicensing,
+or any commercial use of this software is prohibited without explicit authorization
+from the rights holder.
+This software is provided for personal use only or for the purpose of creating
+programs. For permission for any additional commercial use, please contact
+ForgeKingStudios.
+The rights holder reserves the right to take legal action against any violation of
+this license.
+
+Additional Permissions: Users are permitted to record videos about the software and
+publish them on the internet, provided proper credits are given to ForgeKingStudios.
+Users are allowed to export programs created with the software to community sites
+or to other users who have the software, provided they do not violate the terms of
+use of the destination site and provide proper credits to ForgeKingStudios.
+Limitation of Liability: Any damage or claim related to the use of this software is
+the sole responsibility of the user who obtained the software. The creator of the
+software bears no responsibility for any damages or claims arising from the use of
+this software.
+
+For further information regarding additional permissions or commercial use, please
+contact us through our YouTube channel: @forgekingstudios.
