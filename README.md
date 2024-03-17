@@ -1,61 +1,67 @@
-# VOID Fantasy Computer Console
 
-![VOID Logo](https://example.com/void_logo.png)
 
-VOID é uma fantasia de computador inspirada em consoles como PICO-8, LIKO-12 e TIC-80. Feito a partir do Universal System, estará disponível na plataforma itch.io como um aplicativo, executável e testável diretamente na plataforma. A expectativa é que esteja disponível para as plataformas Android, Windows e Linux (executável e no Raspberry PI do tipo Batocera).
+# ![VOID](https://github.com/LIKO-12/extras/raw/main/Readme-Screenshots/Header_Logo.png)
 
-## Sobre
+[![stars](https://badgen.net/github/stars/LIKO-12/LIKO-12)](https://github.com/LIKO-12/LIKO-12)
+[![commits](https://badgen.net/github/commits/LIKO-12/LIKO-12)](https://github.com/LIKO-12/LIKO-12/commits/main)
+[![github downloads](https://img.shields.io/github/downloads/LIKO-12/LIKO-12/total.svg)](https://github.com/LIKO-12/LIKO-12/releases)
+[![releases](https://badgen.net/github/tag/LIKO-12/LIKO-12)](https://github.com/LIKO-12/LIKO-12/releases)
+[![license](https://badgen.net/github/license/LIKO-12/LIKO-12)](https://github.com/LIKO-12/LIKO-12/blob/main/LICENSE)
+---
 
-VOID é um computador de fantasia que permite criar, jogar e compartilhar jogos e programas retrô. Ele vem com um sistema operacional padrão totalmente personalizável, semelhante ao DOS, chamado DiskOS.
+## About
 
-DiskOS fornece um ambiente com programas básicos de linha de comando e editores de jogos visuais.
+VOID is a fantasy computer that you can use to make, play and share tiny retro-looking games and programs. It comes
+with a default, fully customizable, DOS-like operating system installed, called DiskOS.
 
-Os jogos e programas criados são salvos como arquivos de disco que podem ser facilmente compartilhados com amigos ou qualquer outra pessoa.
+DiskOS provides an environment with basic command line programs and visual game editors.
 
-## Disponível em
+The created games and programs are saved as disk files that can be easily shared to friends or anyone else.
 
-- [itch.io](https://example.com/itch_io_link)
-- [Google Play](https://play.google.com/store/apps/details?id=com.example.void)
-- [GitHub Releases](https://github.com/yourusername/void/releases)
-- [Snapcraft](https://snapcraft.io/void)
+### Available on
 
-## Projetos Alternativos
+[![Itch.io](https://badgen.net/badge/icon/Itch.io/red?label=%20)](https://ramilego4game.itch.io/liko12)
 
-- **[PICO-8:](https://www.lexaloffle.com/pico-8.php)** O console de fantasia original que iniciou a tendência. Sua comunidade é bastante ativa. Feito com cuidado para proporcionar a sensação dos antigos consoles. Recomendado para quem pode adquiri-lo.
-- **[PixelVision8:](https://pixelvision8.github.io/Website/)** Um console de fantasia de código aberto que promete manter a sensação dos antigos consoles, ainda em desenvolvimento até hoje. Possui uma qualidade muito boa e gráficos atraentes.
-- **[TIC-80:](https://tic80.com/)** Um clone de código aberto do PICO-8 que tem sua própria sensação e comunidade. Está em um estado _final/estável_ e suporta várias linguagens de programação. Também pode ser uma boa escolha, mas também possui uma versão PRO paga para apoiar o desenvolvedor.
-- Há uma lista completa de outros consoles de fantasia [aqui](https://github.com/paladin-t/fantasy).
+## Alternative Projects
 
-## Galeria
+## Gallery
 
-Inclua aqui uma galeria de imagens do VOID.
+| BIOS POST Screen       | DiskOS Installer              | Command-line Prompt              | Code Editor              | Sprite Editor              | Map Editor              | WIP Editor              |
+|------------------------|-------------------------------|----------------------------------|--------------------------|----------------------------|-------------------------|-------------------------|
+| ![BIOS POST][IMAGE_01] | ![DiskOS Installer][IMAGE_02] | ![Command-line Prompt][IMAGE_03] | ![Code Editor][IMAGE_04] | ![Sprite Editor][IMAGE_05] | ![Map Editor][IMAGE_06] | ![WIP Editor][IMAGE_07] |
 
-## Documentação
+[IMAGE_01]: https://raw.githubusercontent.com/LIKO-12/extras/main/Readme-Screenshots/BIOS_POST.png
+[IMAGE_02]: https://raw.githubusercontent.com/LIKO-12/extras/main/Readme-Screenshots/DiskOS_Installer.png
+[IMAGE_03]: https://raw.githubusercontent.com/LIKO-12/extras/main/Readme-Screenshots/DiskOS_Prompt.gif
+[IMAGE_04]: https://raw.githubusercontent.com/LIKO-12/extras/main/Readme-Screenshots/Code_Editor.png
+[IMAGE_05]: https://raw.githubusercontent.com/LIKO-12/extras/main/Readme-Screenshots/Sprite_Editor.png
+[IMAGE_06]: https://raw.githubusercontent.com/LIKO-12/extras/main/Readme-Screenshots/Map_Editor.png
+[IMAGE_07]: https://raw.githubusercontent.com/LIKO-12/extras/main/Readme-Screenshots/WIP_Editor.png
 
-A documentação está disponível em vários lugares:
+## Documentation
 
-- Nos [folhetos de ajuda](https://example.com/void/docs/cheatsheets/) (melhor recurso, na minha opinião).
-- [Página do GitHub do VOID](https://example.com/void/docs/)
-- [Outra página do GitHub](https://example.com/void/docs/WIP/)
-- Por meio de um bot do Discord no [Discord do VOID](https://discord.gg/void)
-- Em formato JSON no [Repositório de Documentação da API](https://github.com/yourusername/void-api-docs) (usado pelo bot do Discord).
+The documentation is scattered and available over multiple places:
 
-As demonstrações e jogos incluídos podem ser usados como último recurso antes de ler o código-fonte.
+- In the [cheatsheets](https://liko-12.github.io/#/Documentation/Cheatsheets/) (best resource I believe).
+- [VOID GitHub Webpage](https://liko-12.github.io/) (sufferes from changing navigation bar issues).
+- [Another GitHub Webpage](https://liko-12.github.io/WIP/) (an attempt to get better documentation).
+- Via a Discord bot on [VOID's Discord](https://discord.gg/adjqkd639F)
+- In a JSON format on the [API-Documentation Repository](https://github.com/LIKO-12/API-Documentation) (used by the Discord bot).
 
-## Visão Geral do Código-fonte
+The demos and games included could be used as a last resort before reading the source-code.
 
-VOID foi feito usando o incrível [LÖVE Framework](https://love2d.org) e escrito puramente em Lua.
+## Source-code Overview
 
-Lua é uma linguagem de script simples que costumava ser muito boa nos dias de hoje, e ainda pode servir como um bom ponto de partida para iniciantes com alguns cuidados para superar os obstáculos de mudar para outras linguagens conhecidas como JavaScript. (Embora Python seja uma escolha melhor para aprender programação)
+VOID was made using the awesome [LÖVE Framework](https://love2d.org) and written purely in Lua.
 
-Há muitos crimes ninja no código-fonte, onde sacrifiquei a legibilidade do código para me sentir satisfeito em fazer algo tão hackeado e específico do Lua. Muito desculpas por isso 😬
+Lua is a simple scripting language that used to be very good back in the days, and it could still serve as a good start for beginners with some care to overcome the obstacles of moving into other well known languages like JavaScript. (Although Python is a better choice for learning programming)
 
-Conforme o projeto cresceu ao longo dos anos, ele foi dividido em vários repositórios sob a [Organização VOID](https://github.com/yourusername)
+There are lots of ninja crimes in the codebase, where I sacrificed code readability to feel satisfied in doing something so hacky and Lua specific. Very sorry for that 😬
 
-## Estado do Projeto
+As the project has grew over the years, it has been split into multiple repositories under the [VOID Organization](https://github.com/LIKO-12)
 
-O projeto infelizmente não é mais desenvolvido nem mantido.
+## Project Status
 
-## Agradecimentos à Comunidade LÖVE
+The project is unfortunately no longer developed nor maintained.
 
-Por ser uma comunidade incrível que teve a paciência de me tolerar como uma criança e me ajudar a aprender muitas coisas ao longo dos anos.
+## Thanks to the LÖVE Community
