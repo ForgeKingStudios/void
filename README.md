@@ -1,8 +1,8 @@
-# ![VOID](https://github.com/LIKO-12/extras/raw/main/Readme-Screenshots/Header_Logo.png)
+# ![VOID](https://github.com/VOID/extras/raw/main/Readme-Screenshots/Header_Logo.png)
 
-[![stars](https://badgen.net/github/stars/LIKO-12/LIKO-12)](https://github.com/LIKO-12/LIKO-12)
-[![commits](https://badgen.net/github/commits/LIKO-12/LIKO-12)](https://github.com/LIKO-12/LIKO-12/commits/main)
-[![github downloads](https://img.shields.io/github/downloads/LIKO-12/LIKO-12/total.svg)](https://github.com/LIKO-12/LIKO-12/releases)
+[![stars](https://badgen.net/github/stars/VOID/VOID)](https://github.com/VOID/VOID)
+[![commits](https://badgen.net/github/commits/VOID/VOID)](https://github.com/VOID/VOID/commits/main)
+[![github downloads](https://img.shields.io/github/downloads/VOID/VOID/total.svg)](https://github.com/VOID/VOID/releases)
 [![releases](https://badgen.net/github/tag/VOID/VOID)](https://github.com/VOID/VOID/releases)
 [![license](https://badgen.net/github/license/VOID/VOID)](https://github.com/VOID/VOID/blob/main/LICENSE)
 ---
