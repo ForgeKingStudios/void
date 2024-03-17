@@ -3,7 +3,7 @@
 [![stars](https://badgen.net/github/stars/LIKO-12/LIKO-12)](https://github.com/LIKO-12/LIKO-12)
 [![commits](https://badgen.net/github/commits/LIKO-12/LIKO-12)](https://github.com/LIKO-12/LIKO-12/commits/main)
 [![github downloads](https://img.shields.io/github/downloads/LIKO-12/LIKO-12/total.svg)](https://github.com/LIKO-12/LIKO-12/releases)
-[![releases](https://badgen.net/github/tag/LIKO-12/LIKO-12)](https://github.com/LIKO-12/LIKO-12/releases)
+[![releases](https://badgen.net/github/tag/VOID/VOID)](https://github.com/VOID/VOID/releases)
 [![license](https://badgen.net/github/license/VOID/VOID)](https://github.com/VOID/VOID/blob/main/LICENSE)
 ---
 
@@ -18,7 +18,7 @@ The created games and programs are saved as disk files that can be easily shared
 
 ### Available on
 
-[![Itch.io](https://badgen.net/badge/icon/Itch.io/red?label=%20)](https://ramilego4game.itch.io/liko12)
+[![Itch.io](https://badgen.net/badge/icon/Itch.io/red?label=%20)](https://forgekingstudios.itch.io/void)
 
 ## Alternative Projects
 
@@ -40,11 +40,11 @@ The created games and programs are saved as disk files that can be easily shared
 
 The documentation is scattered and available over multiple places:
 
-- In the [cheatsheets](https://liko-12.github.io/#/Documentation/Cheatsheets/) (best resource I believe).
-- [VOID GitHub Webpage](https://liko-12.github.io/) (sufferes from changing navigation bar issues).
-- [Another GitHub Webpage](https://liko-12.github.io/WIP/) (an attempt to get better documentation).
+- In the [cheatsheets](https://void.github.io/#/Documentation/Cheatsheets/) (best resource I believe).
+- [VOID GitHub Webpage](https://void.github.io/) (sufferes from changing navigation bar issues).
+- [Another GitHub Webpage](https://void.github.io/WIP/) (an attempt to get better documentation).
 - Via a Discord bot on [VOID's Discord](https://discord.gg/adjqkd639F)
-- In a JSON format on the [API-Documentation Repository](https://github.com/LIKO-12/API-Documentation) (used by the Discord bot).
+- In a JSON format on the [API-Documentation Repository](https://github.com/VOID/API-Documentation) (used by the Discord bot).
 
 The demos and games included could be used as a last resort before reading the source-code.
 
