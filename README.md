@@ -4,7 +4,7 @@
 [![commits](https://badgen.net/github/commits/LIKO-12/LIKO-12)](https://github.com/LIKO-12/LIKO-12/commits/main)
 [![github downloads](https://img.shields.io/github/downloads/LIKO-12/LIKO-12/total.svg)](https://github.com/LIKO-12/LIKO-12/releases)
 [![releases](https://badgen.net/github/tag/LIKO-12/LIKO-12)](https://github.com/LIKO-12/LIKO-12/releases)
-[![license](https://badgen.net/github/license/LIKO-12/LIKO-12)](https://github.com/LIKO-12/LIKO-12/blob/main/LICENSE)
+[![license](https://badgen.net/github/license/VOID/VOID)](https://github.com/VOID/VOID/blob/main/LICENSE)
 ---
 
 ## About
